@@ -12,6 +12,5 @@
 
 <a href="https://www.twitter.com/LightningCog_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LightningCog_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Eldritch-Ships-Studios" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Eldritch-Ships-Studios?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/lightningcog" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.twitch.tv/lightningcog" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/lightningcog?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
